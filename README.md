@@ -1,4 +1,4 @@
-#1 Thor Java Client SDK
+# Thor Java Client SDK
 [![Build Status](https://travis-ci.org/vechain/thor-client-sdk4j.svg?branch=master)](https://travis-ci.org/vechain/thor-client-sdk4j.svg?branch=master)
 
 A SDK toolkit for client to call VeChainThor Restful API.
